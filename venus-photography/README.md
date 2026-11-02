@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Venus — The Photography Company
 
-## Getting Started
+Single-page site for an Indian wedding photography studio. Next.js 16 (App Router), GSAP + ScrollTrigger, Lenis smooth scroll.
 
-First, run the development server:
+## Develop
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+npm run dev        # http://localhost:3000
+npm run build      # production build
+npm run lint
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Deploy to Vercel
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. Push this repository to GitHub.
+2. In Vercel: **Add New → Project** → import the repository.
+3. Set **Root Directory** to `venus-photography` (the app lives in this subfolder). Vercel detects Next.js; leave build settings at their defaults.
+4. Deploy.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Environment variables
 
-## Learn More
+| Name | Required | Purpose |
+| --- | --- | --- |
+| `NEXT_PUBLIC_SITE_URL` | Once a custom domain is attached | Canonical origin for metadata, Open Graph, `robots.txt` and `sitemap.xml`, e.g. `https://venusphotography.in`. Without it, Vercel's production URL is used. |
 
-To learn more about Next.js, take a look at the following resources:
+## Content
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+All copy, contact details and photo IDs live in `src/lib/data.ts`. Photos are Pexels placeholders loaded straight from the Pexels CDN (`src/lib/imageLoader.ts`), so they don't use Vercel image-optimisation quota.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Before launch
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Replace placeholder phone, email, address, couple names, testimonials and journal entries in `src/lib/data.ts`.
+- Swap Pexels photos for Venus' own work.
+- Connect the inquiry form (`src/components/Inquiry.tsx`) to email or a CRM — it currently only shows a thank-you message.
+- Replace the film teasers in `src/components/Films.tsx` with YouTube/Vimeo embeds when the films are online.
