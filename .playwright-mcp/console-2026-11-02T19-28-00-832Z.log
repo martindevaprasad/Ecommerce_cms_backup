@@ -1,0 +1,18 @@
+[     176ms] [LOG] [Fast Refresh] done in 119ms @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[     576ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    1806ms] [LOG] [Fast Refresh] done in 1349ms @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    4674ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    4861ms] [LOG] [HMR] connected @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[   12442ms] [WARNING] Image with src "https://images.pexels.com/photos/25489380/pexels-photo-25489380.jpeg?auto=compress&cs=tinysrgb&w=3840" has "fill" and parent element with invalid "position". Provided "static" should be one of absolute,fixed,relative. @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[   53975ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[   54066ms] [LOG] [Fast Refresh] done in 11ms @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[   70397ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[   70430ms] [LOG] [Fast Refresh] done in 24ms @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[  110298ms] [LOG] [Fast Refresh] done in 24ms @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[  110518ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[  110545ms] [LOG] [Fast Refresh] done in 69ms @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[  112254ms] [LOG] [Fast Refresh] done in 69ms @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[  112592ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[  114335ms] [LOG] [Fast Refresh] done in 1139ms @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[  165020ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[  165132ms] [LOG] [Fast Refresh] done in 189ms @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760

@@ -1,0 +1,638 @@
+- generic [active] [ref=f2e1]:
+  - generic [ref=f2e79]:
+    - generic [ref=f2e80]: Focusing
+    - generic [ref=f2e81]: "000"
+    - generic [ref=f2e82]: Venus · The Photography Company
+  - banner [ref=f2e83]:
+    - generic [ref=f2e84]:
+      - link "Venus — home" [ref=f2e85] [cursor=pointer]:
+        - /url: "#top"
+        - generic [ref=f2e86]: VENUS
+      - text: Stories Services Album Archive Films Journal
+      - button "Menu" [ref=f2e87] [cursor=pointer]
+  - generic [aria-hidden] [ref=f2e90]:
+    - generic [ref=f2e91]: Frame
+    - generic [ref=f2e92]: "01"
+    - generic [ref=f2e93]: /36
+  - main [ref=f2e94]:
+    - generic [ref=f2e96]:
+      - generic [ref=f2e97]:
+        - img "Bride and groom seated with garlands during a South Indian wedding ritual" [ref=f2e99]
+        - img "Newlywed Indian couple in traditional attire" [ref=f2e101]
+        - img "South Indian bride in a pink silk saree with gold jewellery" [ref=f2e103]
+        - img "Indian couple embracing at an outdoor wedding" [ref=f2e105]
+        - img "Newlyweds under a decorated pavilion at night" [ref=f2e107]
+      - generic [aria-hidden]:
+        - generic: RAW · 45.7 MP
+        - generic:
+          - generic: "01"
+          - text: / 05 — Muhurtham · Chennai
+      - generic [ref=f2e109]:
+        - paragraph [ref=f2e110]: Indian wedding photography & films · Chennai
+        - heading [level=1] [ref=f2e111]:
+          - text: Heirlooms of silk,
+          - emphasis [ref=f2e112]: sindoor
+          - text: "& gold"
+        - paragraph [ref=f2e113]: Premium candid photography and cinematic films for Tamil and Indian weddings — told with restraint, colour and soul.
+        - generic [ref=f2e114]:
+          - link "Reserve your muhurtham" [ref=f2e115] [cursor=pointer]:
+            - /url: "#inquire"
+          - link "Turn the album" [ref=f2e116] [cursor=pointer]:
+            - /url: "#album"
+    - region "Rituals we photograph" [ref=f2e117]:
+      - generic [ref=f2e118]:
+        - generic [ref=f2e120]:
+          - generic [ref=f2e121]: Nichayathartham
+          - generic [ref=f2e125]: Muhurtham
+          - generic [ref=f2e129]: Kanyadaanam
+          - generic [ref=f2e133]: Mehendi
+          - generic [ref=f2e137]: Haldi
+          - generic [ref=f2e141]: Sangeet
+          - generic [ref=f2e145]: Nichayathartham
+          - generic [ref=f2e149]: Muhurtham
+          - generic [ref=f2e153]: Kanyadaanam
+          - generic [ref=f2e157]: Mehendi
+          - generic [ref=f2e161]: Haldi
+          - generic [ref=f2e165]: Sangeet
+          - generic [ref=f2e169]: Nichayathartham
+          - generic [ref=f2e173]: Muhurtham
+          - generic [ref=f2e177]: Kanyadaanam
+          - generic [ref=f2e181]: Mehendi
+          - generic [ref=f2e185]: Haldi
+          - generic [ref=f2e189]: Sangeet
+          - generic [ref=f2e193]: Nichayathartham
+          - generic [ref=f2e197]: Muhurtham
+          - generic [ref=f2e201]: Kanyadaanam
+          - generic [ref=f2e205]: Mehendi
+          - generic [ref=f2e209]: Haldi
+          - generic [ref=f2e213]: Sangeet
+        - generic [ref=f2e218]:
+          - generic [ref=f2e219]: Baraat
+          - generic [ref=f2e223]: Saptapadi
+          - generic [ref=f2e227]: Oonjal
+          - generic [ref=f2e231]: Nalangu
+          - generic [ref=f2e235]: Pheras
+          - generic [ref=f2e239]: Reception
+          - generic [ref=f2e243]: Baraat
+          - generic [ref=f2e247]: Saptapadi
+          - generic [ref=f2e251]: Oonjal
+          - generic [ref=f2e255]: Nalangu
+          - generic [ref=f2e259]: Pheras
+          - generic [ref=f2e263]: Reception
+          - generic [ref=f2e267]: Baraat
+          - generic [ref=f2e271]: Saptapadi
+          - generic [ref=f2e275]: Oonjal
+          - generic [ref=f2e279]: Nalangu
+          - generic [ref=f2e283]: Pheras
+          - generic [ref=f2e287]: Reception
+          - generic [ref=f2e291]: Baraat
+          - generic [ref=f2e295]: Saptapadi
+          - generic [ref=f2e299]: Oonjal
+          - generic [ref=f2e303]: Nalangu
+          - generic [ref=f2e307]: Pheras
+          - generic [ref=f2e311]: Reception
+    - generic [ref=f2e316]:
+      - generic [ref=f2e317]:
+        - paragraph [ref=f2e318]: Our ethos
+        - paragraph [ref=f2e320]: "We are storytellers of the Indian wedding — the hush before the thaali is tied, the riot of turmeric at the haldi, the grandmother who wipes away a tear she thinks no one saw. For twelve years Venus has photographed these moments exactly as they are: honest, luminous and made to outlive us all."
+        - generic [ref=f2e321]:
+          - generic [ref=f2e322]: Venus
+          - generic [ref=f2e323]: Founder & lead photographer · Chennai
+        - link "What we craft" [ref=f2e324] [cursor=pointer]:
+          - /url: "#services"
+      - generic [ref=f2e325]:
+        - figure [ref=f2e326]:
+          - img "South Indian bride in traditional attire, Chennai" [ref=f2e327]
+        - figure [ref=f2e328]:
+          - img "South Indian couple in traditional wedding attire" [ref=f2e329]
+        - img [ref=f2e331]:
+          - generic [ref=f2e332]: VENUS · THE PHOTOGRAPHY COMPANY · EST. 2014 · CHENNAI ·
+    - generic [ref=f2e333]:
+      - generic [ref=f2e334]:
+        - generic [ref=f2e335]:
+          - paragraph [ref=f2e336]: What we craft
+          - heading [level=2] [ref=f2e338]:
+            - text: Services,
+            - emphasis [ref=f2e339]: tailored
+            - text: to every ritual
+        - paragraph [ref=f2e340]: From a quiet Nichayathartham to a four-day destination celebration, every package is built around your ceremonies — never a template.
+      - generic [ref=f2e341]:
+        - article [ref=f2e342]:
+          - img "Candid Wedding Photography" [ref=f2e344]
+          - generic [ref=f2e345]:
+            - text: "01"
+            - heading "Candid Wedding Photography" [level=3] [ref=f2e346]
+            - paragraph [ref=f2e347]: Unposed, unhurried frames of the glances, tears and laughter between the rituals.
+            - list [ref=f2e348]:
+              - listitem [ref=f2e349]: Two lead photographers
+              - listitem [ref=f2e350]: Full-day coverage
+        - article [ref=f2e351]:
+          - img "Cinematic Wedding Films" [ref=f2e353]
+          - generic [ref=f2e354]:
+            - text: "02"
+            - heading "Cinematic Wedding Films" [level=3] [ref=f2e355]
+            - paragraph [ref=f2e356]: Feature-length films and a three-minute teaser scored and graded like cinema.
+            - list [ref=f2e357]:
+              - listitem [ref=f2e358]: 4K · drone
+              - listitem [ref=f2e359]: Same-day edit
+        - article [ref=f2e360]:
+          - img "Pre-Wedding Stories" [ref=f2e362]
+          - generic [ref=f2e363]:
+            - text: "03"
+            - heading "Pre-Wedding Stories" [level=3] [ref=f2e364]
+            - paragraph [ref=f2e365]: A styled shoot at a location that means something to the two of you.
+            - list [ref=f2e366]:
+              - listitem [ref=f2e367]: Concept & styling
+              - listitem [ref=f2e368]: Outfit changes
+        - article [ref=f2e369]:
+          - img "Destination Weddings" [ref=f2e371]
+          - generic [ref=f2e372]:
+            - text: "04"
+            - heading "Destination Weddings" [level=3] [ref=f2e373]
+            - paragraph [ref=f2e374]: Palaces, temple towns and beaches — we travel with the whole crew.
+            - list [ref=f2e375]:
+              - listitem [ref=f2e376]: India & abroad
+              - listitem [ref=f2e377]: Recce included
+        - article [ref=f2e378]:
+          - img "Engagement & Nichayathartham" [ref=f2e380]
+          - generic [ref=f2e381]:
+            - text: "05"
+            - heading "Engagement & Nichayathartham" [level=3] [ref=f2e382]
+            - paragraph [ref=f2e383]: The first promise, the families meeting, the first ring — told gently.
+            - list [ref=f2e384]:
+              - listitem [ref=f2e385]: Half-day
+              - listitem [ref=f2e386]: Family portraits
+        - article [ref=f2e387]:
+          - img "Haldi, Mehendi & Sangeet" [ref=f2e389]
+          - generic [ref=f2e390]:
+            - text: "06"
+            - heading "Haldi, Mehendi & Sangeet" [level=3] [ref=f2e391]
+            - paragraph [ref=f2e392]: Turmeric, henna and dance floors captured in all their colour and chaos.
+            - list [ref=f2e393]:
+              - listitem [ref=f2e394]: Multi-event
+              - listitem [ref=f2e395]: Colour-graded
+        - article [ref=f2e396]:
+          - img "Heirloom Albums" [ref=f2e398]
+          - generic [ref=f2e399]:
+            - text: "07"
+            - heading "Heirloom Albums" [level=3] [ref=f2e400]
+            - paragraph [ref=f2e401]: Hand-bound linen and leather albums printed on archival fine-art paper.
+            - list [ref=f2e402]:
+              - listitem [ref=f2e403]: Lay-flat spreads
+              - listitem [ref=f2e404]: Lifetime print
+        - generic [ref=f2e405]:
+          - paragraph [ref=f2e406]:
+            - text: Something
+            - emphasis [ref=f2e407]: bespoke
+            - text: in mind?
+          - link "Talk to us" [ref=f2e408] [cursor=pointer]:
+            - /url: "#inquire"
+    - region "The Muhurtham" [ref=f2e409]:
+      - generic [ref=f2e410]:
+        - generic [ref=f2e411]:
+          - paragraph [ref=f2e412]: f/1.4 — wide open
+          - paragraph [ref=f2e414]: Keep scrolling to open the aperture
+        - generic [ref=f2e415]:
+          - img "Indian bride in red amidst floral decor" [ref=f2e416]
+          - generic [ref=f2e418]:
+            - generic [ref=f2e419]: Muhurtham
+            - paragraph [ref=f2e420]: The auspicious moment arrives once. We make sure it stays forever.
+            - paragraph [ref=f2e421]: Kapaleeshwarar Temple · 06:42 AM · 1/320s
+    - generic [ref=f2e422]:
+      - generic [ref=f2e423]:
+        - paragraph [ref=f2e424]: The heirloom album
+        - heading [level=2] [ref=f2e426]:
+          - text: Turn the pages of
+          - emphasis [ref=f2e427]: forever
+      - generic [ref=f2e429]:
+        - paragraph [ref=f2e431]:
+          - emphasis [ref=f2e432]: fin.
+          - text: Printed on archival cotton rag, bound by hand in Chennai.
+        - generic [ref=f2e433]:
+          - generic [ref=f2e435]:
+            - generic [ref=f2e436]: The Heirloom Album
+            - generic [ref=f2e437]: Meera & Arjun
+            - generic [ref=f2e438]: XII · II · MMXXVI
+            - generic [ref=f2e439]: VENUS
+          - generic [ref=f2e440]:
+            - paragraph [ref=f2e441]: For the ones who will turn these pages long after us.
+            - generic [ref=f2e442]: — M & A
+        - generic [ref=f2e443]:
+          - generic [ref=f2e444]:
+            - img "The morning of the Muhurtham" [ref=f2e446]
+            - paragraph [ref=f2e447]: The morning of the Muhurtham
+          - generic [ref=f2e448]:
+            - img "Under the mandapam" [ref=f2e450]
+            - paragraph [ref=f2e451]: Under the mandapam
+        - generic [ref=f2e452]:
+          - generic [ref=f2e453]:
+            - img "Mehendi, the night before" [ref=f2e455]
+            - paragraph [ref=f2e456]: Mehendi, the night before
+          - generic [ref=f2e457]:
+            - img "Kanjeevaram & temple gold" [ref=f2e459]
+            - paragraph [ref=f2e460]: Kanjeevaram & temple gold
+        - generic [ref=f2e461]:
+          - generic [ref=f2e462]:
+            - img "First laugh as a married pair" [ref=f2e464]
+            - paragraph [ref=f2e465]: First laugh as a married pair
+          - generic [ref=f2e466]:
+            - img "Saptapadi — seven steps" [ref=f2e468]
+            - paragraph [ref=f2e469]: Saptapadi — seven steps
+      - generic [ref=f2e470]:
+        - paragraph [ref=f2e471]: Chapter I — The Cover
+        - paragraph [ref=f2e472]: Chapter II — Before the Muhurtham
+        - paragraph [ref=f2e473]: Chapter III — The Night of Henna
+        - paragraph [ref=f2e474]: Chapter IV — Seven Steps
+    - region "Venus in numbers" [ref=f2e475]:
+      - generic [ref=f2e476]:
+        - paragraph [ref=f2e477]:
+          - text: Twelve years,
+          - emphasis [ref=f2e478]: thousands
+          - text: of rituals, one obsession — light.
+        - generic [ref=f2e479]:
+          - generic [ref=f2e480]:
+            - generic [ref=f2e529]:
+              - generic [ref=f2e530]: "0"
+              - generic [ref=f2e531]: +
+            - paragraph [ref=f2e532]: Weddings documented
+          - generic [ref=f2e533]:
+            - generic [ref=f2e582]:
+              - generic [ref=f2e583]: "0"
+              - generic [ref=f2e584]: +
+            - paragraph [ref=f2e585]: Films crafted
+          - generic [ref=f2e586]:
+            - generic [ref=f2e635]: "0"
+            - paragraph [ref=f2e637]: Cities & destinations
+          - generic [ref=f2e638]:
+            - generic [ref=f2e687]:
+              - generic [ref=f2e688]: "0"
+              - generic [ref=f2e689]: yrs
+            - paragraph [ref=f2e690]: Behind the lens
+    - generic [ref=f2e691]:
+      - generic [ref=f2e693]:
+        - paragraph [ref=f2e694]: Couple stories
+        - heading [level=2] [ref=f2e696]:
+          - text: Love, scattered
+          - emphasis [ref=f2e697]: on the table
+        - paragraph [ref=f2e698]: A handful of the couples who trusted us with their once-in-a-lifetime. Go on — pick up a print.
+      - generic [ref=f2e699]:
+        - figure "Meera & Arjun Mylapore, Chennai" [ref=f2e700]:
+          - generic [ref=f2e701]:
+            - img "Meera & Arjun — Mylapore, Chennai"
+          - generic [ref=f2e702]:
+            - generic [ref=f2e703]: Meera & Arjun
+            - generic [ref=f2e704]: Mylapore, Chennai
+        - figure "Kavya & Rohan Udaipur" [ref=f2e705]:
+          - generic [ref=f2e706]:
+            - img "Kavya & Rohan — Udaipur"
+          - generic [ref=f2e707]:
+            - generic [ref=f2e708]: Kavya & Rohan
+            - generic [ref=f2e709]: Udaipur
+        - figure "Divya & Karthik Madurai" [ref=f2e710]:
+          - generic [ref=f2e711]:
+            - img "Divya & Karthik — Madurai"
+          - generic [ref=f2e712]:
+            - generic [ref=f2e713]: Divya & Karthik
+            - generic [ref=f2e714]: Madurai
+        - figure "Ananya & Vikram Goa" [ref=f2e715]:
+          - generic [ref=f2e716]:
+            - img "Ananya & Vikram — Goa"
+          - generic [ref=f2e717]:
+            - generic [ref=f2e718]: Ananya & Vikram
+            - generic [ref=f2e719]: Goa
+        - figure "Lakshmi & Surya Thanjavur" [ref=f2e720]:
+          - generic [ref=f2e721]:
+            - img "Lakshmi & Surya — Thanjavur"
+          - generic [ref=f2e722]:
+            - generic [ref=f2e723]: Lakshmi & Surya
+            - generic [ref=f2e724]: Thanjavur
+        - figure "Nila & Pranav Coimbatore" [ref=f2e725]:
+          - generic [ref=f2e726]:
+            - img "Nila & Pranav — Coimbatore"
+          - generic [ref=f2e727]:
+            - generic [ref=f2e728]: Nila & Pranav
+            - generic [ref=f2e729]: Coimbatore
+    - generic [ref=f2e731]:
+      - generic [ref=f2e732]:
+        - paragraph [ref=f2e733]: The archive
+        - heading [level=2] [ref=f2e735]:
+          - text: Frames we
+          - emphasis [ref=f2e736]: still dream of
+        - paragraph [ref=f2e737]: Filter by ceremony. Every frame here was a single breath in someone's forever.
+      - tablist "Filter the archive" [ref=f2e738]:
+        - tab "All" [selected] [ref=f2e739] [cursor=pointer]
+        - tab "Wedding" [ref=f2e740] [cursor=pointer]
+        - tab "Pre-Wedding" [ref=f2e741] [cursor=pointer]
+        - tab "Candid" [ref=f2e742] [cursor=pointer]
+        - tab "Destination" [ref=f2e743] [cursor=pointer]
+        - tab "Haldi & Mehendi" [ref=f2e744] [cursor=pointer]
+      - generic [ref=f2e745]:
+        - 'button "Open: Couple during the wedding ceremony" [ref=f2e746] [cursor=pointer]':
+          - img "Couple during the wedding ceremony" [ref=f2e748]
+          - generic [ref=f2e749]: Wedding
+        - 'button "Open: South Indian bride portrait, Chennai" [ref=f2e750] [cursor=pointer]':
+          - img "South Indian bride portrait, Chennai" [ref=f2e752]
+          - generic [ref=f2e753]: Wedding
+        - 'button "Open: Bride with bouquet in a green forest" [ref=f2e754] [cursor=pointer]':
+          - img "Bride with bouquet in a green forest" [ref=f2e756]
+          - generic [ref=f2e757]: Pre-Wedding
+        - 'button "Open: Couple sharing a quiet moment" [ref=f2e758] [cursor=pointer]':
+          - img "Couple sharing a quiet moment" [ref=f2e760]
+          - generic [ref=f2e761]: Candid
+        - 'button "Open: Marigold archway at an outdoor venue" [ref=f2e762] [cursor=pointer]':
+          - img "Marigold archway at an outdoor venue" [ref=f2e764]
+          - generic [ref=f2e765]: Destination
+        - 'button "Open: Haldi ceremony around the bride" [ref=f2e766] [cursor=pointer]':
+          - img "Haldi ceremony around the bride" [ref=f2e768]
+          - generic [ref=f2e769]: Haldi & Mehendi
+        - 'button "Open: Couple at their wedding ceremony" [ref=f2e770] [cursor=pointer]':
+          - img "Couple at their wedding ceremony" [ref=f2e772]
+          - generic [ref=f2e773]: Wedding
+        - 'button "Open: Bride posing in lush greenery" [ref=f2e774] [cursor=pointer]':
+          - img "Bride posing in lush greenery" [ref=f2e776]
+          - generic [ref=f2e777]: Pre-Wedding
+        - 'button "Open: Joyful couple in traditional attire" [ref=f2e778] [cursor=pointer]':
+          - img "Joyful couple in traditional attire" [ref=f2e780]
+          - generic [ref=f2e781]: Candid
+        - 'button "Open: Floral mandap with chandeliers" [ref=f2e782] [cursor=pointer]':
+          - img "Floral mandap with chandeliers" [ref=f2e784]
+          - generic [ref=f2e785]: Destination
+        - 'button "Open: Henna and turmeric on hands" [ref=f2e786] [cursor=pointer]':
+          - img "Henna and turmeric on hands" [ref=f2e788]
+          - generic [ref=f2e789]: Haldi & Mehendi
+        - 'button "Open: Couple at a night ceremony" [ref=f2e790] [cursor=pointer]':
+          - img "Couple at a night ceremony" [ref=f2e792]
+          - generic [ref=f2e793]: Wedding
+        - 'button "Open: Couple adorned with flower garlands" [ref=f2e794] [cursor=pointer]':
+          - img "Couple adorned with flower garlands" [ref=f2e796]
+          - generic [ref=f2e797]: Pre-Wedding
+        - 'button "Open: Bride outdoors in traditional jewellery" [ref=f2e798] [cursor=pointer]':
+          - img "Bride outdoors in traditional jewellery" [ref=f2e800]
+          - generic [ref=f2e801]: Candid
+        - 'button "Open: Outdoor setup with pink florals" [ref=f2e802] [cursor=pointer]':
+          - img "Outdoor setup with pink florals" [ref=f2e804]
+          - generic [ref=f2e805]: Destination
+        - 'button "Open: Wedding stage with a floral arch" [ref=f2e806] [cursor=pointer]':
+          - img "Wedding stage with a floral arch" [ref=f2e808]
+          - generic [ref=f2e809]: Destination
+        - 'button "Open: Henna and red bangles close-up" [ref=f2e810] [cursor=pointer]':
+          - img "Henna and red bangles close-up" [ref=f2e812]
+          - generic [ref=f2e813]: Haldi & Mehendi
+    - generic [ref=f2e814]:
+      - generic [ref=f2e815]:
+        - paragraph [ref=f2e816]: Cinematic films
+        - heading [level=2] [ref=f2e818]:
+          - text: Your wedding,
+          - emphasis [ref=f2e819]: in cinemascope
+        - paragraph [ref=f2e820]: Shot on cinema cameras, scored with care and graded like a feature — films your grandchildren will want to watch.
+      - button [ref=f2e822] [cursor=pointer]:
+        - img "A Mylapore Morning — Meera & Arjun" [ref=f2e823]
+      - generic [ref=f2e830]:
+        - button "A Mylapore Morning Reel 01 A Mylapore Morning Meera & Arjun · Chennai · 04:52" [ref=f2e831] [cursor=pointer]:
+          - img "A Mylapore Morning" [ref=f2e833]
+          - generic [ref=f2e835]:
+            - generic [ref=f2e836]: Reel 01
+            - strong [ref=f2e837]: A Mylapore Morning
+            - generic [ref=f2e838]: Meera & Arjun · Chennai · 04:52
+        - button "Salt, Sand & Sindoor Reel 02 Salt, Sand & Sindoor Ananya & Vikram · Goa · 06:10" [ref=f2e839] [cursor=pointer]:
+          - img "Salt, Sand & Sindoor" [ref=f2e841]
+          - generic [ref=f2e843]:
+            - generic [ref=f2e844]: Reel 02
+            - strong [ref=f2e845]: Salt, Sand & Sindoor
+            - generic [ref=f2e846]: Ananya & Vikram · Goa · 06:10
+        - button "The Temple Town Vows Reel 03 The Temple Town Vows Divya & Karthik · Madurai · 05:24" [ref=f2e847] [cursor=pointer]:
+          - img "The Temple Town Vows" [ref=f2e849]
+          - generic [ref=f2e851]:
+            - generic [ref=f2e852]: Reel 03
+            - strong [ref=f2e853]: The Temple Town Vows
+            - generic [ref=f2e854]: Divya & Karthik · Madurai · 05:24
+    - generic [ref=f2e856]:
+      - generic [ref=f2e857]:
+        - paragraph [ref=f2e858]: Your journey with Venus
+        - heading [level=2] [ref=f2e860]:
+          - text: From hello
+          - emphasis [ref=f2e861]: to heirloom
+        - paragraph [ref=f2e862]: Six unhurried steps between your first message and the album on your coffee table.
+      - list [ref=f2e867]:
+        - listitem [ref=f2e868]:
+          - generic [ref=f2e873]:
+            - generic [ref=f2e874]: Step 01
+            - heading "The first conversation" [level=3] [ref=f2e875]
+            - paragraph [ref=f2e876]: Coffee or a video call — we listen to your story, families and rituals before we talk packages.
+        - listitem [ref=f2e877]:
+          - generic [ref=f2e882]:
+            - generic [ref=f2e883]: Step 02
+            - heading "Planning the frames" [level=3] [ref=f2e884]
+            - paragraph [ref=f2e885]: A shot list built around your muhurtham timings, venues, light and the people who matter.
+        - listitem [ref=f2e886]:
+          - generic [ref=f2e892]:
+            - generic [ref=f2e893]: Step 03
+            - heading "Pre-wedding shoot" [level=3] [ref=f2e894]
+            - paragraph [ref=f2e895]: A relaxed day together so you are at ease in front of our lenses well before the big one.
+        - listitem [ref=f2e896]:
+          - generic [ref=f2e902]:
+            - generic [ref=f2e903]: Step 04
+            - heading "The wedding days" [level=3] [ref=f2e904]
+            - paragraph [ref=f2e905]: Lead photographers, cinematographers and drone crew — quietly everywhere, never in the way.
+        - listitem [ref=f2e906]:
+          - generic [ref=f2e915]:
+            - generic [ref=f2e916]: Step 05
+            - heading "Curating & grading" [level=3] [ref=f2e917]
+            - paragraph [ref=f2e918]: Every frame hand-picked and colour-graded. Teaser within a week, full gallery in six.
+        - listitem [ref=f2e919]:
+          - generic [ref=f2e923]:
+            - generic [ref=f2e924]: Step 06
+            - heading "Your heirloom album" [level=3] [ref=f2e925]
+            - paragraph [ref=f2e926]: Designed with you spread by spread, printed archival and hand-bound to last generations.
+    - region "Kind words" [ref=f2e927]:
+      - generic [ref=f2e928]:
+        - generic [ref=f2e929]:
+          - img "Meera & Arjun" [ref=f2e931]
+          - img "Kavya & Rohan" [ref=f2e933]
+          - img "Lakshmi & Surya" [ref=f2e935]
+          - img "Nila & Pranav" [ref=f2e937]
+        - generic [ref=f2e938]:
+          - paragraph [ref=f2e939]: Kind words
+          - generic [aria-hidden] [ref=f2e941]: “
+          - blockquote [ref=f2e942]: They knew every ritual before it happened. Our parents still call the album 'the treasure'.
+          - paragraph [ref=f2e943]: Meera & Arjun
+          - paragraph [ref=f2e944]: Chennai · 2025
+          - generic [ref=f2e945]:
+            - button "Previous testimonial" [ref=f2e946] [cursor=pointer]: ←
+            - generic [ref=f2e947]:
+              - strong [ref=f2e948]: "01"
+              - text: / 04
+            - button "Next testimonial" [ref=f2e949] [cursor=pointer]: →
+    - generic [ref=f2e952]:
+      - generic [ref=f2e953]:
+        - paragraph [ref=f2e954]: The journal
+        - heading [level=2] [ref=f2e956]:
+          - text: Notes from
+          - emphasis [ref=f2e957]: behind the lens
+      - list [ref=f2e958]:
+        - listitem [ref=f2e959]:
+          - 'link "Guides Planning a temple wedding in Tamil Nadu: light, timings & etiquette Oct 2026" [ref=f2e960] [cursor=pointer]':
+            - /url: "#journal"
+            - generic [ref=f2e962]: Guides
+            - generic [ref=f2e963]: "Planning a temple wedding in Tamil Nadu: light, timings & etiquette"
+            - generic [ref=f2e964]: Oct 2026
+        - listitem [ref=f2e965]:
+          - link "Behind the lens Why we shoot marigold mandaps at golden hour Sep 2026" [ref=f2e966] [cursor=pointer]:
+            - /url: "#journal"
+            - generic [ref=f2e968]: Behind the lens
+            - generic [ref=f2e969]: Why we shoot marigold mandaps at golden hour
+            - generic [ref=f2e970]: Sep 2026
+        - listitem [ref=f2e971]:
+          - link "Real weddings Meera & Arjun — a Mylapore wedding in Kanjeevaram silk Aug 2026" [ref=f2e972] [cursor=pointer]:
+            - /url: "#journal"
+            - generic [ref=f2e974]: Real weddings
+            - generic [ref=f2e975]: Meera & Arjun — a Mylapore wedding in Kanjeevaram silk
+            - generic [ref=f2e976]: Aug 2026
+        - listitem [ref=f2e977]:
+          - 'link "Albums Choosing your heirloom album: linen, leather or silk? Jul 2026" [ref=f2e978] [cursor=pointer]':
+            - /url: "#journal"
+            - generic [ref=f2e980]: Albums
+            - generic [ref=f2e981]: "Choosing your heirloom album: linen, leather or silk?"
+            - generic [ref=f2e982]: Jul 2026
+    - generic [ref=f2e984]:
+      - generic [ref=f2e986]:
+        - paragraph [ref=f2e987]: Questions
+        - heading [level=2] [ref=f2e989]:
+          - text: Before you
+          - emphasis [ref=f2e990]: say yes
+      - generic [ref=f2e991]:
+        - generic [ref=f2e992]:
+          - button "01 How early should we book Venus for our wedding?" [expanded] [ref=f2e993] [cursor=pointer]:
+            - generic [ref=f2e994]: "01"
+            - generic [ref=f2e995]: How early should we book Venus for our wedding?
+          - paragraph [ref=f2e999]: Muhurtham dates fill fast — most couples book 8 to 12 months ahead. Peak season (November to February) often closes a year in advance, so reach out as soon as your date is fixed.
+        - generic [ref=f2e1000]:
+          - button "02 Do you cover South Indian and North Indian rituals?" [ref=f2e1001] [cursor=pointer]:
+            - generic [ref=f2e1002]: "02"
+            - generic [ref=f2e1003]: Do you cover South Indian and North Indian rituals?
+          - paragraph [ref=f2e1005]: Yes. Our team has covered Tamil, Telugu, Kannada, Malayali, Marwari, Punjabi and Bengali weddings — we study your ceremony order before the day so nothing sacred is missed.
+        - generic [ref=f2e1006]:
+          - button "03 Do you travel for destination weddings?" [ref=f2e1007] [cursor=pointer]:
+            - generic [ref=f2e1008]: "03"
+            - generic [ref=f2e1009]: Do you travel for destination weddings?
+          - paragraph [ref=f2e1011]: Always. We travel across India and abroad; travel and stay are quoted transparently, and a location recce is included for destination packages.
+        - generic [ref=f2e1012]:
+          - button "04 When will we receive our photos and film?" [ref=f2e1013] [cursor=pointer]:
+            - generic [ref=f2e1014]: "04"
+            - generic [ref=f2e1015]: When will we receive our photos and film?
+          - paragraph [ref=f2e1017]: A sneak peek within 72 hours, the teaser within a week, the full graded gallery in about six weeks and the feature film in ten to twelve weeks.
+        - generic [ref=f2e1018]:
+          - button "05 What is included in the heirloom album?" [ref=f2e1019] [cursor=pointer]:
+            - generic [ref=f2e1020]: "05"
+            - generic [ref=f2e1021]: What is included in the heirloom album?
+          - paragraph [ref=f2e1023]: A lay-flat album of 40 to 80 spreads on archival fine-art paper, bound in linen, leather or raw silk — designed together with you and printed to last generations.
+        - generic [ref=f2e1024]:
+          - button "06 How do we reserve our date?" [ref=f2e1025] [cursor=pointer]:
+            - generic [ref=f2e1026]: "06"
+            - generic [ref=f2e1027]: How do we reserve our date?
+          - paragraph [ref=f2e1029]: Send us an inquiry with your date and city. We will set up a call, share a tailored proposal and reserve the date on a signed agreement with a 30% advance.
+    - generic [ref=f2e1031]:
+      - img "Smiling bride holding a floral garland" [ref=f2e1034]
+      - generic [ref=f2e1088]:
+        - paragraph [ref=f2e1089]: Reserve your date
+        - heading [level=2] [ref=f2e1091]:
+          - text: Let's begin your
+          - emphasis [ref=f2e1092]: story
+        - paragraph [ref=f2e1093]: Tell us a little about your celebration. We reply within a day with availability and a proposal tailored to your rituals.
+        - generic [ref=f2e1094]:
+          - generic [ref=f2e1095]:
+            - textbox "Your names" [ref=f2e1096]:
+              - /placeholder: " "
+            - generic: Your names
+          - generic [ref=f2e1097]:
+            - textbox "Phone / WhatsApp" [ref=f2e1098]:
+              - /placeholder: " "
+            - generic: Phone / WhatsApp
+          - generic [ref=f2e1099]:
+            - textbox "Email" [ref=f2e1100]:
+              - /placeholder: " "
+            - generic: Email
+          - generic [ref=f2e1101]:
+            - textbox "Muhurtham date" [ref=f2e1102]:
+              - /placeholder: " "
+            - generic: Muhurtham date
+          - generic [ref=f2e1103]:
+            - textbox "City / venue" [ref=f2e1104]:
+              - /placeholder: " "
+            - generic: City / venue
+          - generic [ref=f2e1105]:
+            - combobox "Investment" [ref=f2e1106] [cursor=pointer]:
+              - option "Select" [disabled] [selected]
+              - option "₹3 – 5 lakh"
+              - option "₹5 – 10 lakh"
+              - option "₹10 – 20 lakh"
+              - option "₹20 lakh +"
+            - generic: Investment
+          - group "What would you like?" [ref=f2e1107]:
+            - button "Candid Photography" [pressed] [ref=f2e1109] [cursor=pointer]
+            - button "Cinematic Film" [ref=f2e1110] [cursor=pointer]
+            - button "Pre-Wedding" [ref=f2e1111] [cursor=pointer]
+            - button "Destination" [ref=f2e1112] [cursor=pointer]
+            - button "Heirloom Album" [ref=f2e1113] [cursor=pointer]
+            - button "Drone" [ref=f2e1114] [cursor=pointer]
+          - generic [ref=f2e1115]:
+            - textbox "Tell us about your wedding" [ref=f2e1116]:
+              - /placeholder: " "
+            - generic: Tell us about your wedding
+          - button "Send inquiry" [ref=f2e1117] [cursor=pointer]
+  - contentinfo [ref=f2e1118]:
+    - generic [ref=f2e1119]:
+      - generic [ref=f2e1120]:
+        - generic [ref=f2e1121]:
+          - img "Venus — The Photography Company" [ref=f2e1122]
+          - paragraph [ref=f2e1123]: Premium Indian wedding photography and films, based in Chennai and travelling wherever love takes us.
+        - generic [ref=f2e1124]:
+          - heading "Explore" [level=4] [ref=f2e1125]
+          - link "Stories" [ref=f2e1126] [cursor=pointer]:
+            - /url: "#stories"
+          - link "Services" [ref=f2e1127] [cursor=pointer]:
+            - /url: "#services"
+          - link "Album" [ref=f2e1128] [cursor=pointer]:
+            - /url: "#album"
+          - link "Archive" [ref=f2e1129] [cursor=pointer]:
+            - /url: "#archive"
+          - link "Films" [ref=f2e1130] [cursor=pointer]:
+            - /url: "#films"
+          - link "Journal" [ref=f2e1131] [cursor=pointer]:
+            - /url: "#journal"
+        - generic [ref=f2e1132]:
+          - heading "Services" [level=4] [ref=f2e1133]
+          - generic [ref=f2e1134]: Candid Wedding Photography
+          - generic [ref=f2e1135]: Cinematic Wedding Films
+          - generic [ref=f2e1136]: Pre-Wedding Stories
+          - generic [ref=f2e1137]: Destination Weddings
+          - generic [ref=f2e1138]: Engagement & Nichayathartham
+          - generic [ref=f2e1139]: Haldi, Mehendi & Sangeet
+        - generic [ref=f2e1140]:
+          - heading "Studio" [level=4] [ref=f2e1141]
+          - generic [ref=f2e1142]: Studio 7, Khader Nawaz Khan Road, Nungambakkam, Chennai 600006
+          - link "+91 98400 00000" [ref=f2e1143] [cursor=pointer]:
+            - /url: tel:+919840000000
+          - link "hello@venusphotography.in" [ref=f2e1144] [cursor=pointer]:
+            - /url: mailto:hello@venusphotography.in
+          - generic [ref=f2e1145]:
+            - link "Instagram" [ref=f2e1146] [cursor=pointer]:
+              - /url: "#"
+            - link "YouTube" [ref=f2e1147] [cursor=pointer]:
+              - /url: "#"
+            - link "Facebook" [ref=f2e1148] [cursor=pointer]:
+              - /url: "#"
+            - link "Pinterest" [ref=f2e1149] [cursor=pointer]:
+              - /url: "#"
+      - generic [aria-hidden] [ref=f2e1150]:
+        - generic [ref=f2e1151]: V
+        - generic [ref=f2e1152]: E
+        - generic [ref=f2e1153]: "N"
+        - generic [ref=f2e1154]: U
+        - generic [ref=f2e1155]: S
+      - generic [ref=f2e1156]:
+        - generic [ref=f2e1157]: © 2026 Venus — The Photography Company. All rights reserved.
+        - generic [ref=f2e1158]: Photographs courtesy of Pexels contributors (placeholder).
+        - button "Back to top ↑" [ref=f2e1159] [cursor=pointer]
+  - button "Open Next.js Dev Tools" [ref=f2e1165] [cursor=pointer]
+  - alert [ref=f2e1169]

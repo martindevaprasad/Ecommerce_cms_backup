@@ -1,0 +1,4 @@
+[     177ms] [LOG] [Fast Refresh] done in 100ms @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    2565ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    2701ms] [LOG] [HMR] connected @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    8436ms] [WARNING] The resource https://images.pexels.com/photos/20775588/pexels-photo-20775588.jpeg?auto=compress&cs=tinysrgb&w=640 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3210/:0
